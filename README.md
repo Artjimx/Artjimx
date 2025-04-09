@@ -1,15 +1,15 @@
 <h1 align="center">
   <img src="https://images-ext-1.discordapp.net/external/dTBvH2b7mVpqTyrdzrEFn-FFTc4xdw3cTW_8Ebc2a74/%3Fv%3D1/https/cdn.discordapp.com/emojis/1138922811096830043.gif" height="35"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=%239400D3&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile;I+AM...;𝑨𝒓𝒄𝒊𝒓𝒊𝒖𝒔+ॐ+//+menosmrx" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=%239400D3&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile;I+AM...;𝑨𝒓𝒄𝒊𝒓𝒊𝒖𝒔+♰+//+menosmrx" alt="Typing SVG" />
   
   <img src="https://images-ext-1.discordapp.net/external/n0b4wnSJGXX_xab0X4GZHo_TLAucUfaw91oAxkLwrq0/%3Fv%3D1/https/cdn.discordapp.com/emojis/1246303550339022918.gif" height="40"/>
 </h1>
 
 
----
+--- 
 
-### Style ♾️
+## <img src="https://images-ext-1.discordapp.net/external/AeZkl48hm0jq09zFalUVhp_MYFtxjP1BrHHMYF2Qz5M/%3Fv%3D1/https/cdn.discordapp.com/emojis/1112998842258952286.png?format=webp&quality=lossless" width ="25"> <b>  Style:</b> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=%230d2fa1&center=true&vCenter=true&width=600&lines=DISCORD+DEVELOPER;CREATE+BOTS+🤖;My+Best+Sleep+Is+When+I+Program" alt="Typing SVG" />
@@ -35,7 +35,7 @@
 
 <div align="center">
     <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+</div> 
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Operating Systems 🐧 :
+## <img src="https://images-ext-1.discordapp.net/external/CK6mQisQRAX8X8jHuFN2WPeYXevnyS28qdQGaz8fbMQ/%3Fv%3D1/https/cdn.discordapp.com/emojis/1248452635812691979.gif" width ="25"> <b>  Operating Systems:</b> 
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -61,9 +61,9 @@
 <hr>
 <br>
 
----
+--- 
 
-### 🎗️ COMMENTARY
+## <img src="https://images-ext-1.discordapp.net/external/3efUSdfoatL7MuRUEfElkkWONuSA6E3jR_iQvat9o4M/%3Fv%3D1/https/cdn.discordapp.com/emojis/1343761608840839199.png?format=webp&quality=lossless" width ="25"> <b>  Commentary</b> 
 
 <p align="center">
   <blockquote style="font-family: 'Courier New', monospace; font-size: 18px; font-style: italic; color: #ecf0f1; background-color: #34495e; padding: 15px 25px; border-left: 5px solid #e74c3c; border-radius: 5px; width: 70%; text-align: center;">

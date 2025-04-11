@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://images-ext-1.discordapp.net/external/dTBvH2b7mVpqTyrdzrEFn-FFTc4xdw3cTW_8Ebc2a74/%3Fv%3D1/https/cdn.discordapp.com/emojis/1138922811096830043.gif" height="35"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=%239400D3&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile;I+AM...;𝑨𝒓𝒄𝒊𝒓𝒊𝒖𝒔+♰+//+menosmrx" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=%236e07b8&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+To+My+Profile;I+AM...;𝑨𝒓𝒄𝒊𝒓𝒊𝒖𝒔+♰+//+menosmrx" alt="Typing SVG" />
   
   <img src="https://images-ext-1.discordapp.net/external/n0b4wnSJGXX_xab0X4GZHo_TLAucUfaw91oAxkLwrq0/%3Fv%3D1/https/cdn.discordapp.com/emojis/1246303550339022918.gif" height="40"/>
 </h1>
@@ -12,7 +12,7 @@
 ## <img src="https://images-ext-1.discordapp.net/external/AeZkl48hm0jq09zFalUVhp_MYFtxjP1BrHHMYF2Qz5M/%3Fv%3D1/https/cdn.discordapp.com/emojis/1112998842258952286.png?format=webp&quality=lossless" width ="25"> <b>  Style:</b> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=%230d2fa1&center=true&vCenter=true&width=600&lines=DISCORD+DEVELOPER;CREATE+BOTS+🤖;My+Best+Sleep+Is+When+I+Program" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%230d2fa1&size=32&center=true&vCenter=true&width=600&height=120&lines=DISCORD+DEVELOPER;CREATE+BOTS+🤖;My+Best+Sleep+Is+When+I+Program" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
@@ -20,15 +20,15 @@
 </h1>
 
 <h1 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=%238a0000&center=true&vCenter=true&width=600&lines=Sentimiento+🖤" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%238a0000&size=32&center=true&vCenter=true&width=600&height=60&lines=Sentimiento+🖤" alt="Typing SVG" />
 </h1>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3700&pause=1000&color=%23D4AF37&center=true&vCenter=true&width=600&lines=Elegancia+💎" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%23D4AF37&size=32&center=true&vCenter=true&width=600&height=60&lines=Elegancia+💎" alt="Typing SVG" />
 </h1>
 
 <h1 align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=%236A0DAD&center=true&vCenter=true&width=600&lines=Y+Maldad+🎭" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236A0DAD&size=32&center=true&vCenter=true&width=600&height=60&lines=Y+Maldad+🎭" alt="Typing SVG" />
 </h1>
 
 --- 
